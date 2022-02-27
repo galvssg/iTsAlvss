@@ -1,1 +1,1 @@
-<img src="...\iTsAlvss.png">
+<img src="iTsAlvss.png">
